@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "ali",
+        "grades": [
+            10,
+            20,
+            20
+        ],
+        "total": 50
+    },
+    {
+        "id": 2,
+        "name": "ahmed",
+        "grades": [
+            10,
+            10,
+            20
+        ],
+        "total": 40
+    },
+    {
+        "id": 3,
+        "name": "amr",
+        "grades": [
+            20,
+            20,
+            20
+        ],
+        "total": 60
+    },
+    {
+        "id": 4,
+        "name": "moustafa",
+        "grades": [
+            30,
+            20,
+            20
+        ],
+        "total": 70
+    },
+    {
+        "id": 5,
+        "name": "aya",
+        "grades": [
+            30,
+            30,
+            20
+        ],
+        "total": 80
+    }
+]
